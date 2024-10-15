@@ -1,0 +1,10 @@
+2024-10-15 20:45:43,334 INFO  [main] Starting Chrome browser in normal mode...
+2024-10-15 20:45:48,490 INFO  [main] Navigating to page: https://stage-forum.telerikacademy.com/login
+2024-10-15 20:45:50,525 INFO  [main] Finding element with locator: By.id: Email
+2024-10-15 20:45:51,073 INFO  [main] Finding element with locator: By.id: Email
+2024-10-15 20:45:52,800 INFO  [main] Finding element with locator: By.id: Password
+2024-10-15 20:45:52,992 INFO  [main] Finding element with locator: By.id: next
+2024-10-15 20:45:58,786 INFO  [main] Finding element with locator: By.cssSelector: a.raw-link.raw-topic-link[data-topic-id='11547']
+2024-10-15 20:48:41,005 INFO  [main] Finding element with locator: By.xpath: //button[@data-post-id='34574']
+2024-10-15 20:48:41,068 INFO  [main] Finding element with locator: By.xpath: //button[@data-post-id='34574']
+2024-10-15 20:48:42,424 INFO  [main] Quiting driver...
